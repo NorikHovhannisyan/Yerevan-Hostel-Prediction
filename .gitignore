@@ -1,0 +1,18 @@
+# Python-ի ժամանակավոր ֆայլեր
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook-ի ֆայլեր
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Վիրտուալ միջավայր (եթե ունես)
+venv/
+env/
+
+# MacOS-ի համակարգային ֆայլեր
+.DS_Store
+
+# Տվյալներ (եթե CSV-ն շատ մեծ է, ավելացրու այստեղ)
+# *.csv
