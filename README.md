@@ -1,3 +1,5 @@
+<img width="2560" height="1707" alt="YEREVAN" src="https://github.com/user-attachments/assets/53449c02-5074-4d77-a06c-58dcea8482b0" />
+
 # 🏨 Yerevan Hotel Price Predictor
 This project is an End-to-End Machine Learning application designed to predict the nightly price of hotels in Yerevan, Armenia. By analyzing features such as star ratings, customer reviews, and facilities, the model provides data-driven estimates for the local hospitality market.
 
@@ -52,6 +54,11 @@ pip install -r requirements.txt
 ```
 streamlit run house.py
 ```
+
+- Result:
+
+<img width="1202" height="848" alt="Screenshot 2026-05-09 105249" src="https://github.com/user-attachments/assets/08c28aaf-f213-4d03-af4e-a71a3392206d" />
+
 
 ## 📈 Future Improvements
 - Add Location-based analysis (mapping prices to specific districts).
